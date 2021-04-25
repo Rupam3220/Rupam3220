@@ -1,7 +1,6 @@
 - 👋 Hi, I am Rupam Chakraborty
 - 👀 I’m interested in Web development and Software Development.
 - 🌱 I’m currently learning Btech in Computer Science and Engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me rupam.3220@gmail.com
 
 <!---
