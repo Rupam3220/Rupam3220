@@ -1,7 +1,7 @@
 - 👋 Hi, I am Rupam Chakraborty
-- 👀 Interested in Web development and Software Development.
+- 👀 Interested in Full Stack Development.
 - 🌱 Completed Btech in Computer Science and Engineering.
-- 🌱 Currently working as a Python Backend Developer.
+- 🌱 Currently working as a Backend Developer.
 - 📫 How to reach me rupam.3220@gmail.com
 
 <!---
